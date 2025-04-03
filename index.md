@@ -4,7 +4,7 @@ layout: default
 
 <img src="/profile.png" alt="Berke Akkaya" style="width: 170px; border-radius: 50%; margin-bottom: 10px;">
 
-[Projects](#projects) • [Publications](#publications) • [Teaching Activities](#teaching-activities) • [Contact](#contact)
+[Projects](##Projects) • [Publications](##Publications) • [Teaching Activities](##Teaching) • [Contact](#Contact)
 
 # 👋 Hello
 I am a researcher working on **Recommender Systems**, **Large Language Models**, and **Explainable AI**.  
@@ -18,7 +18,8 @@ Currently pursuing my PhD in *Quantitative Methods* at Istanbul University and c
 - Statistical Learning
 - Explainable AI
 
-## 📚 Publications
+## Publications
+📚
 
 ---
 
@@ -55,7 +56,8 @@ Currently pursuing my PhD in *Quantitative Methods* at Istanbul University and c
 → Compared 9 classification algorithms on UCI cardiotocography data. Best model: Random Forest (0.88 accuracy).
 🔗 [Paper Link](https://www.mi.imati.cnr.it/ettore/attached/y-BIS2019.pdf)
 
-## 🧪 Featured Projects
+## Projects
+🧪 
 
 ---
 
@@ -85,7 +87,10 @@ Tools: Python, VADER, Word Clouds
 Tools: Python, XGBoost, Sklearn  
 📂 Tags: Health, Classification, SMOTE
 
-## 👨‍🏫 Teaching Activities
+## Teaching
+👨‍🏫 
+
+---
 ### *Basic Mathematics I & II*
 - Fundamentals of algebra, functions, and calculus applied to economics and business problems.  
 ### *Statistical Analysis*
@@ -101,12 +106,12 @@ Tools: Python, XGBoost, Sklearn
 ### *Data Mining* 
 - Introduction to data preprocessing, clustering, classification, and association rule learning.
 
-## 📄 CV
-
+## CV
+📄
 You can download my latest resume [here](Akkaya_2025.pdf).
 
-## 📬 Contact
-
+## Contact
+📬
 - 📧 [Email](mailto:berkeakkaya@istanbul.edu.tr)
 - 🔗 [LinkedIn](https://linkedin.com/in/berke-akkaya)
 - 💻 [GitHub](https://github.com/b-erke)
