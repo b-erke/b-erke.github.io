@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="/profile.png" alt="Berke Akkaya" style="width: 150px; border-radius: 50%; margin-bottom: 10px;">
+<img src="/profile.png" alt="Berke Akkaya" style="width: 170px; border-radius: 50%; margin-bottom: 10px;">
 
 # 👋 Hello
 I am a researcher working on **Recommender Systems**, **Large Language Models**, and **Explainable AI**.  
@@ -92,4 +92,4 @@ You can download my latest resume [here](Akkaya_2025.pdf).
 - 📧 [Email](mailto:berkeakkaya@istanbul.edu.tr)
 - 🔗 [LinkedIn](https://linkedin.com/in/berke-akkaya)
 - 💻 [GitHub](https://github.com/b-erke)
-- 🎓 [Google Scholar] (https://scholar.google.com.tr/citations?user=hJ8A5UUAAAAJ&hl)
+- 🎓 [Google Scholar](https://scholar.google.com.tr/citations?user=hJ8A5UUAAAAJ&hl=en)
