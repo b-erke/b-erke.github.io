@@ -43,7 +43,7 @@ Currently pursuing my PhD in *Quantitative Methods* at Istanbul University and c
 
 ---
 
-### ⚫ The Effect of Recursive Feature Elimination with Cross-Validation on Classification Performance  
+### 📚 The Effect of Recursive Feature Elimination with Cross-Validation on Classification Performance  
 *4th International Conference on Data Science and Applications, 142–145 (2021)*  
 → Tested recursive feature elimination on 9 ML algorithms across 5 datasets. Improved accuracy and reduced fit time.
 🔗 [Paper Link](https://www.icondata.org/uploads/kcfinder/upload/files/ICONDATA21_Full_Text_Book_final.pdf)
@@ -86,23 +86,21 @@ Tools: Python, XGBoost, Sklearn
 📂 Tags: Health, Classification, SMOTE
 
 ## Teaching 
-
----
 ### *Basic Mathematics I & II*
-- Fundamentals of algebra, functions, and calculus applied to economics and business problems.  
+Fundamentals of algebra, functions, and calculus applied to economics and business problems.  
 ### *Statistical Analysis*
-- Practical implementation of hypothesis testing, confidence intervals, and regression analysis.  
+Practical implementation of hypothesis testing, confidence intervals, and regression analysis.  
 ### *Operations Research*
-- Application of linear programming and optimization techniques in decision-making scenarios.  
+Application of linear programming and optimization techniques in decision-making scenarios.  
 ### *Introduction to Statistics*
-- Basic descriptive statistics and probability theory for beginners.  
+Basic descriptive statistics and probability theory for beginners.  
 ### *Business Mathematics*
-- Quantitative methods used in finance and business management, including interest calculations.  
+Quantitative methods used in finance and business management, including interest calculations.  
 ### *Statistics with R*
-- Hands-on use of the R programming language for data analysis and statistical modeling.  
+Hands-on use of the R programming language for data analysis and statistical modeling.  
 ### *Data Mining* 
-- Introduction to data preprocessing, clustering, classification, and association rule learning.
----
+Introduction to data preprocessing, clustering, classification, and association rule learning.
+
 
 ## CV
 📄
