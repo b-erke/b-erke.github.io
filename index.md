@@ -105,6 +105,7 @@ Tools: Python, XGBoost, Sklearn
 - Hands-on use of the R programming language for data analysis and statistical modeling.  
 ### *Data Mining* 
 - Introduction to data preprocessing, clustering, classification, and association rule learning.
+---
 
 ## CV
 📄
