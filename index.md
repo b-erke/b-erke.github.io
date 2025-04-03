@@ -4,6 +4,8 @@ layout: default
 
 <img src="/profile.png" alt="Berke Akkaya" style="width: 170px; border-radius: 50%; margin-bottom: 10px;">
 
+[Projects](#projects) • [Publications](#publications) • [Teaching Activities](#teaching-activities) • [Contact](#contact)
+
 # 👋 Hello
 I am a researcher working on **Recommender Systems**, **Large Language Models**, and **Explainable AI**.  
 Currently pursuing my PhD in *Quantitative Methods* at Istanbul University and conducting research at the University of Passau.
