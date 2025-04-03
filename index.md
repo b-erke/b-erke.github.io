@@ -4,7 +4,7 @@ layout: default
 
 <img src="/profile.png" alt="Berke Akkaya" style="width: 170px; border-radius: 50%; margin-bottom: 10px;">
 
-[Projects](##Projects) • [Publications](##Publications) • [Teaching Activities](##Teaching) • [Contact](#Contact)
+[Projects](#Projects) • [Publications](#Publications) • [Teaching Activities](#Teaching) • [Contact](#Contact)
 
 # 👋 Hello
 I am a researcher working on **Recommender Systems**, **Large Language Models**, and **Explainable AI**.  
