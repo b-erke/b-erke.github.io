@@ -85,19 +85,19 @@ Tools: Python, XGBoost, Sklearn
 
 ## 👨‍🏫 Teaching Activities
 ### *Basic Mathematics I & II*
-- – Fundamentals of algebra, functions, and calculus applied to economics and business problems.  
+- Fundamentals of algebra, functions, and calculus applied to economics and business problems.  
 ### *Statistical Analysis*
-- – Practical implementation of hypothesis testing, confidence intervals, and regression analysis.  
+- Practical implementation of hypothesis testing, confidence intervals, and regression analysis.  
 ### *Operations Research*
-- – Application of linear programming and optimization techniques in decision-making scenarios.  
+- Application of linear programming and optimization techniques in decision-making scenarios.  
 ### *Introduction to Statistics*
-- – Basic descriptive statistics and probability theory for beginners.  
+- Basic descriptive statistics and probability theory for beginners.  
 ### *Business Mathematics*
-- – Quantitative methods used in finance and business management, including interest calculations.  
+- Quantitative methods used in finance and business management, including interest calculations.  
 ### *Statistics with R*
-- – Hands-on use of the R programming language for data analysis and statistical modeling.  
+- Hands-on use of the R programming language for data analysis and statistical modeling.  
 ### *Data Mining* 
-- – Introduction to data preprocessing, clustering, classification, and association rule learning.
+- Introduction to data preprocessing, clustering, classification, and association rule learning.
 
 ## 📄 CV
 
