@@ -19,25 +19,24 @@ Currently pursuing my PhD in *Quantitative Methods* at Istanbul University and c
 - Explainable AI
 
 ## Publications
-📚
 
 ---
 
-### ⚫ A Comparative Study of Heart Disease Prediction Using Machine Learning Techniques  
+### 📚 A Comparative Study of Heart Disease Prediction Using Machine Learning Techniques  
 *2022 International Congress on Human-Computer Interaction, Optimization and Robotic Applications (HORA), IEEE*  
 → Compared ML models on CDC BRFSS 2020 data; achieved 0.89 accuracy with XGBoost after SMOTE-Tomek balancing.  
 🔗 [Paper Link](https://ieeexplore.ieee.org/document/9799978)
 
 ---
 
-### ⚫ Global Vaccination Inequality and Influencing Factors During COVID-19  
+### 📚 Global Vaccination Inequality and Influencing Factors During COVID-19  
 *Hacettepe Journal of Health Administration, 25(1), 17-28 (2022)*  
 → Analyzed political, economic, and demographic drivers of vaccine access across 88 countries using R and SPSS.
 🔗 [Paper Link](https://dergipark.org.tr/tr/pub/hacettepesid/issue/69083/887181)
 
 ---
 
-### ⚫ The Mediator Role of Economic Freedom in the Effect of Corruption Perception on National Happiness  
+### 📚 The Mediator Role of Economic Freedom in the Effect of Corruption Perception on National Happiness  
 *Izmir Journal of Economics, 37(3), 760–777 (2022)*  
 → Explored how economic freedom influences the link between perceived corruption and national happiness in 150 countries.
 🔗 [Paper Link](https://dergipark.org.tr/en/pub/ije/issue/71396/962820)
@@ -51,13 +50,12 @@ Currently pursuing my PhD in *Quantitative Methods* at Istanbul University and c
 
 ---
 
-### ⚫ Comparison of Multi-Class Classification Algorithms for Early Heart Disease Diagnosis  
+### 📚 Comparison of Multi-Class Classification Algorithms for Early Heart Disease Diagnosis  
 *Y-BIS 2019 Conference, ISBIS Young Statisticians Workshop*  
 → Compared 9 classification algorithms on UCI cardiotocography data. Best model: Random Forest (0.88 accuracy).
 🔗 [Paper Link](https://www.mi.imati.cnr.it/ettore/attached/y-BIS2019.pdf)
 
-## Projects
-🧪 
+## Projects 
 
 ---
 
@@ -87,8 +85,7 @@ Tools: Python, VADER, Word Clouds
 Tools: Python, XGBoost, Sklearn  
 📂 Tags: Health, Classification, SMOTE
 
-## Teaching
-👨‍🏫 
+## Teaching 
 
 ---
 ### *Basic Mathematics I & II*
