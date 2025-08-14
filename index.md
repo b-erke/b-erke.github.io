@@ -19,6 +19,12 @@ Currently pursuing my PhD in *Quantitative Methods* at Istanbul University and c
 - Explainable AI
 
 ## Publications
+---
+
+### 📚 Current Trends in Recommender Systems: A Survey of Approaches and Future Directions
+*Computer Science, 10(1), 53-91 (2025)*  
+→ This paper discusses the growing importance of recommender systems in enhancing user experience and information access in digital environments.  
+🔗 [Paper Link]((https://dergipark.org.tr/en/pub/bbd/issue/92233/1652022 )
 
 ---
 
