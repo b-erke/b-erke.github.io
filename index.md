@@ -7,18 +7,25 @@ layout: default
 [Projects](#Projects) • [Publications](#Publications) • [Teaching Activities](#Teaching) • [Contact](#Contact)
 
 # 👋 Hello
-I am a researcher working on **Recommender Systems**, **Large Language Models**, and **Explainable AI**.  
-Completed my PhD in *Quantitative Methods* at Istanbul University and conducted research at the University of Passau.
+I am a researcher working on recommender systems, natural language processing, and the empirical evaluation of machine learning models. I completed my PhD in Quantitative Methods at Istanbul University in 2026, with a thesis on content-aware product recommendation using sentence-transformer representations. During 2024–2025 I spent a year as a doctoral exchange researcher at the Chair of Data and Knowledge Engineering, University of Passau, working on large language model based recommendation.
+
+My current interests centre on how models behave once they meet real users: how evaluation choices affect which model appears to perform best, and how performance varies across users and datasets.
 
 ## 🧠 Interests
 
-- Recommender Systems
-- Natural Language Processing
-- Large Language Models
-- Statistical Learning
+- Recommender systems
+- Natural language processing and large language models
+- Model evaluation and benchmarking
+- User modelling and heterogeneity in model performance
 - Explainable AI
+- Statistical modelling and experimental design
 
 ## Publications
+---
+### 📚 Transparency in Candidate-Facing Recruitment Processes in the BIST 30 Context
+*25th International Business Congress, Ankara, pp. 1–13 (2026)*  
+→ With E. Çelik. This paper examines how automated and algorithmic steps in hiring are disclosed to candidates..  
+
 ---
 
 ### 📚 Current Trends in Recommender Systems: A Survey of Approaches and Future Directions
