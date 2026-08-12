@@ -11,7 +11,7 @@ I am a researcher working on recommender systems, natural language processing, a
 
 My current interests centre on how models behave once they meet real users: how evaluation choices affect which model appears to perform best, and how performance varies across users and datasets.
 
-## 🧠 Interests
+## Interests
 
 - Recommender systems
 - Natural language processing and large language models
@@ -19,6 +19,15 @@ My current interests centre on how models behave once they meet real users: how 
 - User modelling and heterogeneity in model performance
 - Explainable AI
 - Statistical modelling and experimental design
+
+## Education
+ - **PhD, Quantitative Methods — Istanbul University**, 2021–2026. Thesis: Developing a Content-Aware Product Recommendation System Based on Natural Language Processing.
+
+- **Doctoral Exchange Researcher — University of Passau**, 2024–2025. Chair of Data and Knowledge Engineering, Faculty of Computer Science and Mathematics. Research topic: enhancing a large language model based knowledge graph attention network for recommendation.
+
+- **MSc, Quantitative Methods — Istanbul University**, 2018–2021. Thesis: Analyzing User Interactions of an E-Commerce Website with a Pay-Per-Click Model.
+
+- **BSc, Business Administration — Istanbul University**, 2014–2018.
 
 ## Publications
 ---
