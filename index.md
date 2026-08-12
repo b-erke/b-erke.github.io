@@ -8,7 +8,7 @@ layout: default
 
 # 👋 Hello
 I am a researcher working on **Recommender Systems**, **Large Language Models**, and **Explainable AI**.  
-Currently pursuing my PhD in *Quantitative Methods* at Istanbul University and conducting research at the University of Passau.
+Completed my PhD in *Quantitative Methods* at Istanbul University and conducted research at the University of Passau.
 
 ## 🧠 Interests
 
